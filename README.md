@@ -7,10 +7,10 @@ This is a **Retrieval-Augmented Generation (RAG)** system capable of understandi
 ## 📌 Features
 
 - ✅ Document chunking and vector-based semantic search
-- ✅ Query handling in English (Bangla support planned)
+- ✅ Query handling in English and Bangla
 - ✅ Groq LLM integration using LLaMA3
 - ✅ PDF-ready architecture
-- ✅ Easily extensible REST API (optional)
+- ✅ Easily extensible REST API 
 
 ---
 
