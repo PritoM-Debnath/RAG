@@ -1,5 +1,10 @@
-faiss-cpu
+fastapi
+uvicorn
 sentence-transformers
-python-dotenv
+faiss-cpu
 nltk
+python-dotenv
 groq
+pdfplumber
+pytesseract
+Pillow

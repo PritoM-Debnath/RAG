@@ -41,15 +41,15 @@ GROQ_API_KEY=your-api-key-here
 
 ---
 
-## 🧰 Tools, Libraries, and Packages
+## 🧰 Dependencies
 
-| Tool / Library              | Purpose                              |
-|----------------------------|--------------------------------------|
-| `sentence-transformers`    | Text embedding generation            |
-| `faiss`                    | Fast vector similarity search        |
-| `nltk`                     | Text preprocessing & sentence split  |
-| `python-dotenv`            | Environment variable management      |
-| `groq`                     | LLM-powered answer generation        |
+- `fastapi` / `uvicorn` — REST API
+- `sentence-transformers` — Embedding model
+- `faiss-cpu` — Vector search
+- `groq` — Answer generation
+- `pdfplumber` — PDF text extraction
+- `nltk` — Sentence chunking
+- `python-dotenv` — Environment variable support
 
 ---
 
@@ -58,7 +58,7 @@ GROQ_API_KEY=your-api-key-here
 ```python
 response = rag_pipeline(
     query="What did the hero do after the battle?",
-    story_path=r"D:\AI Projects\RAG\data\data.txt" #your text dataset path 
+    story_path=r""  # your text dataset path 
 )
 print(response)
 ```
@@ -77,9 +77,44 @@ print(response)
 
 ## 📑 API Documentation 
 
-> Not implemented yet. 
+
+### 🛠️ Base URL
+```
+http://localhost:8000
+```
 
 ---
+
+### 🔍 POST `/query`
+
+**Request:**
+```json
+{
+  "question": "হরিশ কোথায় কাজ করে?"
+}
+```
+
+**Response:**
+```json
+{
+  "answer": "কানপুরে"
+}
+```
+
+Or:
+```json
+{
+  "answer": "দুঃখিত, প্রাসঙ্গিক তথ্য খুঁজে পাওয়া যায়নি।"
+}
+```
+
+### Test with Swagger:
+```
+http://localhost:8000/docs
+```
+
+---
+
 
 ## 📈 Evaluation Matrix 
 
@@ -89,11 +124,12 @@ print(response)
 | Relevance     | Cosine similarity + human validation   |
 
 ---
-
+## 🎆Workflow Diagram
+![img.png](img.png)
 ## ✅ Q&A
 
 ### Q: What method or library did you use to extract the text, and why?
-**A:** Used `pdfplumber` for Bangla PDF due to its high fidelity with text blocks. For English prototype, a `.txt` file was used. Minor spacing and punctuation inconsistencies were observed and corrected with regex.
+**A:**  used OCR and a combination of **pdfplumber**, **pytesseract**, and **Pillow** to extract text from the scanned Bangla PDF (HSC26-Bangla1st-Paper.pdf).
 
 ---
 
@@ -139,6 +175,8 @@ print(response)
 ├── data/
 │   ├── data.txt
 │   └── HSC26-Bangla1st-Paper.pdf
+├── api/
+|    ├── main.py
 ├── tests/
 │   └── sample_queries.py
 ├── .env
@@ -161,7 +199,6 @@ echo ".env" >> .gitignore
 ##  Future Work
 
 
-- ✅ REST API for user queries
 - ✅ Multilingual embedding
 - ✅ RAG evaluation module
 

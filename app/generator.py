@@ -16,10 +16,10 @@ def generate_answer(query, context, model="llama3-70b-8192"):
     response = client.chat.completions.create(
         model=model,
         messages=[
-            {"role": "system", "content": "You are a helpful assistant that gives answers grounded in context."},
+            {"role": "system", "content": "Based on the given context find the correct answer to the question. No preamble and give it in Bangla"},
             {"role": "user", "content": prompt}
         ],
-        temperature=0.3,
+        temperature=0.0,
         max_tokens=256,
         top_p=1.0,
         stop=None,
