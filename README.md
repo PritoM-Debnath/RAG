@@ -1,6 +1,6 @@
 #  Multilingual RAG System 
 
-This is a basic **Retrieval-Augmented Generation (RAG)** system capable of understanding user queries in **English and Bangla**  and generating grounded responses based on a document corpus. 
+This is a **Retrieval-Augmented Generation (RAG)** system capable of understanding user queries in **English and Bangla**  and generating grounded responses based on a document corpus. 
 
 ---
 
