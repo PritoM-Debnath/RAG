@@ -4,7 +4,7 @@ nltk.download('punkt_tab')  # Just in case
 
 from nltk.tokenize import sent_tokenize
 
-def chunk_text(text, max_words=100):
+def chunk_text(text, max_words=500):
     sentences = sent_tokenize(text)
     chunks = []
     current_chunk = []

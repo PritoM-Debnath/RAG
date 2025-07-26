@@ -1,6 +1,6 @@
 from sentence_transformers import SentenceTransformer
 
-model = SentenceTransformer("all-MiniLM-L6-v2")  # Fast and good for semantic similarity
+model = model = SentenceTransformer("distiluse-base-multilingual-cased-v2")
 
 def get_embeddings(text_chunks):
     return model.encode(text_chunks)

@@ -1,258 +1,59 @@
-The Ink of the Dead
-1. The Letter
+রহস্যময় ছায়া
+ঢাকার এক শান্ত পাড়ায়, সন্ধ্যা নামার ঠিক আগে একটা অদ্ভুত ঘটনা ঘটে গেল। পুরান ঢাকার বনানী রোডের এক পুরনো দোতলা বাড়িতে বাস করতেন বিখ্যাত চিত্রশিল্পী সমরেশ বসু। তিনি ছিলেন একান্ত নিঃসঙ্গ। পরিবার বলতে ছিল না কেউ, শুধু একজন পুরোনো দারোয়ান ও একজন রান্নার লোক।
 
-Detective Adrian Vale was not a man who believed in omens. But when the envelope arrived—thick cream paper, sealed with blood-red wax, and no return address—he felt an old, familiar unease stir beneath his ribs. It was the same feeling he’d had ten years ago, standing over the lifeless body of his partner, Julian Marrick.
+একদিন সকালে বাড়ির দারোয়ান চিৎকার করে প্রতিবেশীদের ডাকতে থাকে— “স্যার! স্যার আর বেঁচে নেই! কারা যেন খুন করে পালিয়েছে!”
 
-He slit the wax seal with his penknife. Inside was a single line of neat cursive:
+খবর দ্রুত পুলিশে যায়। থানার অফিসার রাকিব এসে দেখে, সমরেশ বসুর দেহ পড়ে আছে স্টুডিওর মাঝখানে, চারপাশে রঙ, তুলি আর অর্ধসমাপ্ত একটি চিত্র। মুখে ঘোর বিস্ময় আর চোখ দুটি যেন কাউকে চিহ্নিত করে গেছে।
 
-“Ink flows where blood once did. Begin again.”
+তদন্ত শুরু হলেও রহস্য আরও ঘনীভূত হয়। ঘরে কোনোরকম জোরপূর্বক প্রবেশের চিহ্ন নেই, মূল্যবান জিনিসপত্রও নেই চুরি। তবে একটা কিছুর অনুপস্থিতি খেয়াল করে অফিসার রাকিব— সমরেশ বসুর প্রিয় একটি চিত্রকর্ম “ছায়ার হাসি” হঠাৎ গায়েব।
 
-There was no signature, just a photocopy of a police report he had written—dated exactly a decade ago. The case that had cost Julian his life: The Whitmore Manuscript Disappearance.
+এই কেস পুলিশের পক্ষে সহজ মনে না হওয়ায় ডাকা হয় বিখ্যাত বেসরকারি গোয়েন্দা, সায়েম হোসেন কে। সায়েম ছিলেন নীরব, সংযত আর অসাধারণ বিশ্লেষণশক্তির অধিকারী। তার আগেও তিনি অজস্র জটিল কেসের সমাধান করেছেন।
 
-But that case had been closed.
+তদন্তের শুরু
+সায়েম ঘটনাস্থলে আসতেই ঘরের চারপাশে ঘুরতে থাকেন। তিনি জিজ্ঞেস করেন, “এই চিত্রশিল্পীর কোনো শত্রু ছিল?”
+দারোয়ান বলেন, “না স্যার, উনি তো কারো সাথে খুব একটা মিশতেন না। তবে গত সপ্তাহে একজন নতুন লোক এসেছিল, নাম মনে নেই, কিন্তু খুব অদ্ভুত আচরণ করছিল।”
 
-Buried.
+রান্নার লোক জানায়, “স্যার গত ক’দিন ধরে ভীষণ চিন্তিত ছিলেন। মাঝে মাঝে রাতে ঘুম ভেঙে উঠে জানালার দিকে তাকিয়ে থাকতেন। বলতেন, ‘ও ছায়াটা আবার আসছে!’ আমি বুঝতাম না উনি কী বলেন।”
 
-Forgotten.
+এই ছায়া বিষয়টি সায়েমের কানে আটকে যায়। তিনি ঘরের জানালার পাশে দাঁড়িয়ে সূক্ষ্মভাবে দেখতে থাকেন। কিছু পায়ের ছাপ বারান্দার বাইরে পর্যন্ত গিয়েছে।
 
-Until now.
+তিনি বলেন, “কেউ বাইরে থেকে আসেনি, তবে কেউ ভেতরেই ছিল, এবং খুব সাবধানে সব কিছু করেছিল। খুনের অস্ত্র কোথায়?”
 
-2. The Reopened Wound
+রাকিব জানায়, “ময়নাতদন্ত অনুযায়ী ওঁকে মাথায় কিছুর আঘাতে মারা হয়েছে, সম্ভবত একটি ব্রোঞ্জের ছোট মূর্তি দিয়ে— সেটি স্টুডিওতে ছিল, এখন নেই।”
 
-The Whitmore Manuscript had been a lost artifact of literary legend—a 19th-century novel written in disappearing ink by eccentric writer Elias Whitmore, who was rumored to have gone mad during its creation. The manuscript vanished from the Whitmore estate in 2015, along with Whitmore's descendant, Professor Emory Whitmore.
+ছবির খোঁজে
+সায়েম খোঁজ নিতে থাকেন সেই চিত্রকর্ম “ছায়ার হাসি” সম্পর্কে। প্রতিবেশী এক তরুণ আর্ট গ্যালারির কর্মী জানান, “এই ছবিটা ছিল সমরেশ স্যারের জীবনের শেষ বড় সৃষ্টি। অনেকেই এটা কেনার জন্য আগ্রহী ছিল। তবে স্যার কখনোই বিক্রি করতে চাননি। বলতেন, ‘এটা আমার আত্মার অংশ।’”
 
-Julian and Adrian had investigated. Two months later, Julian was dead. Officially: suicide. Unofficially: Adrian never believed it.
+গল্প আরও রহস্যময় হয়ে ওঠে, যখন জানা যায় কয়েকদিন আগে এক শিল্প সংগ্রাহক, নাম জান্নাত রওশন, এই ছবি কেনার জন্য বিশাল অঙ্কের টাকা প্রস্তাব করেছিলেন, কিন্তু সমরেশ তা ফিরিয়ে দেন।
 
-Now, the letter pulled Adrian back like gravity.
+সায়েম তখন জান্নাত রওশনকে খুঁজে বার করেন। তিনি বলেন, “হ্যাঁ, আমি ছবিটা চেয়েছিলাম, কারণ তার মধ্যে কিছু অদ্ভুত শক্তি আছে বলে শুনেছিলাম। কিন্তু আমি জোর করিনি। আমি বিশ্বাস করি শিল্প জোর করে অধিকার করা যায় না।”
 
-He went straight to Whitmore Estate—abandoned, ivy-covered, and rotting from decades of disrepair. A large sign read “Condemned. Do Not Enter.” Adrian entered anyway.
+সায়েম বুঝলেন, এই চিত্রের পেছনে হয়তো শুধু টাকা নয়, কিছু রহস্য লুকিয়ে আছে।
 
-Inside, the walls had aged, but something was eerily preserved: a thin trail of red ink, like veins, led across the floorboards and up a staircase. His heart quickened. The ink was fresh.
+চূড়ান্ত সন্ধান
+সায়েম আবার ঘটনাস্থলে ফিরে যান। তিনি এবার স্টুডিওর ফ্লোরে এক জায়গায় খুব মনোযোগ দিয়ে তাকান। সেখানে সামান্য আঁচড়ের মতো চিহ্ন। তিনি নিচু হয়ে মেঝে ঠুকতে থাকেন— “এই অংশটা একটু ফাঁপা মনে হচ্ছে।” পুলিশ এনে সেই অংশ ভেঙে দেখলে পাওয়া যায় একটি ছোট গোপন সিন্দুক।
 
-3. The Library
+সিন্দুকের ভেতর থেকে মেলে পুরনো কিছু চিঠি, যেখানে লেখা ছিল—
 
-At the top of the stairs, the trail led to a door: the library.
+“আমার ছবি ‘ছায়ার হাসি’ শুধু একটি ছবি নয়। এটি আমার জীবনের একমাত্র ভালোবাসার প্রতিচ্ছবি। সে আজ নেই, কিন্তু তার আত্মা যেন প্রতিদিন আমায় তাড়া করে। আমি জানি, কেউ একদিন এটাকে নিতে আসবে। যদি আমি মারা যাই, জেনে রেখো, ছবির মধ্যে যে রহস্য আছে, তার চাবি থাকবে আমার চোখে। সে তোমার উপর চোখ রাখবে, সব সময়।”
 
-Adrian entered. Shelves towered above him, and dust hung in the air like memories. In the center of the room sat a figure.
+সায়েম বললেন, “চোখে? তাহলে... মৃতদেহের চোখ?”
 
-Alive.
+তিনি দ্রুত ময়নাতদন্ত প্রতিবেদনে চোখ বোলান, এবং আবিষ্কার করেন, সমরেশ বসুর একটি কনট্যাক্ট লেন্স ছিল, যা মৃতদেহ থেকে পাওয়া যায়নি।
 
-Old.
+অবশেষে, সেই লেন্স খুঁজে বের করে দেখা যায়, তাতে লুকানো একটি ন্যানোচিপ। প্রযুক্তিবিদদের সাহায্যে সেই চিপ ডিকোড করলে পাওয়া যায় এক ডিজিটাল পেইন্টিং, যা সমরেশের ভালোবাসার মানুষ রুবিনার একমাত্র প্রতিকৃতি।
 
-Smiling.
+অপরাধীর মুখোশ উন্মোচন
+এতদিনে তদন্ত এগোতেই একটি নতুন তথ্য মেলে। সেই চিত্র সংগ্রাহক জান্নাত রওশন-এর সহকারী— তানভীর নামে এক যুবক— বহুদিন ধরে সমরেশের বাড়ির আশেপাশে ঘোরাফেরা করছিল।
 
-“Detective Vale,” the man rasped. “You’ve taken your time.”
+তাকে নজরদারিতে রাখতেই একদিন সে গোপনে একটি অজানা অ্যাপার্টমেন্টে প্রবেশ করে, এবং সেখান থেকে উদ্ধার করা হয়— সেই গায়েব হওয়া চিত্রকর্ম।
 
-“Professor Whitmore?” Adrian asked, barely trusting his eyes.
+তানভীরকে গ্রেফতার করা হয়। জিজ্ঞাসাবাদে সে জানায়, “আমি জানতাম, ছবিটা অনেক দামী। কিন্তু আসল টার্গেট ছিল সেই লেন্স— যেটা এক ধরনের এনক্রিপ্টেড পেইন্টিং লুকিয়ে রাখে। আমি ওঁর স্টুডিওতে লুকিয়ে ছিলাম। রাতে যখন উনি ঘুমিয়ে পড়েন, আমি ছবিটা নিতে গিয়েছিলাম। কিন্তু উনি আমাকে দেখে ফেলেন। আমি বাধ্য হয়ে…”
 
-“What's left of him,” Emory croaked. “The manuscript. You still seek it?”
+উপসংহার
+তানভীর গ্রেফতার হয়। চিত্রটি ফিরিয়ে আনা হয়। সমরেশ বসুর স্মরণে সেই ছবি এখন জাতীয় চিত্রশালায় রাখা হয়, যেখানে একটি ফলকে লেখা:
 
-“I seek the truth.”
+“যে শিল্পী ছায়ার মাঝে আলো খুঁজে পেয়েছিলেন।”
 
-Emory’s smile widened. “Then read what was never meant to be read.”
+আর গোয়েন্দা সায়েম? তিনি আবারও প্রমাণ করলেন— চোখ শুধু দেখার জন্য নয়, লুকানো সত্যকেও খুঁজে বের করার শক্তি রাখে।
 
-He pointed to the desk. Laid out on it was a manuscript written in ink that shimmered and pulsed like a living thing. The title page read:
-
-“The Ink of the Dead” – Elias Whitmore, 1883
-
-Suddenly, Emory slumped forward, blood dribbling from his mouth. Dead. No wounds. No sound. Just… dead.
-
-Adrian stepped back, heart pounding. The ink on the manuscript glowed briefly, then faded to black.
-
-4. The Cipher
-
-Adrian took the manuscript and left the estate before the authorities arrived. Back in his apartment, he examined the manuscript more closely. Every page was written in two inks—visible black and faint red that only appeared under heat.
-
-A code.
-
-He heated the first page over his kettle.
-
-“One man must die for another to see.”
-
-He turned to the next.
-
-“Truth comes at a cost.”
-
-He blinked. This wasn’t fiction.
-
-This was prophecy.
-
-And someone was making it happen.
-
-5. The Ghost Writer
-
-The next clue came as a knock on his door.
-
-“Detective Vale?” asked a young woman. “I’m Clara Marrick. Julian’s sister.”
-
-Adrian stood frozen. “You shouldn’t be here.”
-
-Clara entered anyway. “I’ve been receiving letters too. About the manuscript. About Elias Whitmore. My brother's death.”
-
-“Julian killed himself.”
-
-“No,” she said. “He didn’t. And you know that.”
-
-She handed Adrian a letter. It was identical to the one he’d received.
-
-“Someone wants us to find the manuscript,” she whispered. “Or finish it.”
-
-“What do you mean?”
-
-Clara looked him in the eyes. “The manuscript is writing itself.”
-
-6. The Third Victim
-
-Over the next few days, pages began appearing on Adrian’s desk, written in Elias Whitmore’s handwriting.
-
-He had no idea how.
-
-Each page predicted another death.
-
-And each time, it came true.
-
-Page 134: A librarian is crushed beneath shelves of forgotten lore.
-
-Page 147: A priest finds his tongue removed in silence eternal.
-
-Page 158: The detective’s past catches up—truth in fire, memory in ash.
-
-Adrian raced to prevent the deaths, but he was always too late.
-
-The manuscript knew. Somehow, it knew.
-
-7. The Ink Well
-
-Adrian traced the origins of the ink to Whitmore’s private collection. Legend said the ink was made from a rare concoction of mandrake, blood, and a pigment extracted from the “Dead Sea Scrolls.” It was said to hold memory—literal memory—of those who wrote with it.
-
-Elias Whitmore had poured his madness into it.
-
-Now, it was pouring back.
-
-Clara discovered something worse: the ink wasn't just ink. It was laced with human DNA. It was Elias Whitmore.
-
-He had found a way to live through the manuscript.
-
-And he was finishing his story—through them.
-
-8. The Confession
-
-Adrian confronted Clara.
-
-“Are you writing it?” he asked.
-
-“No. I thought you were.”
-
-They both stared at the pages on the desk.
-
-Words appeared.
-
-“Truth must be bled.”
-
-Suddenly, Clara collapsed, convulsing. Her hand gripped the pen involuntarily and scrawled across the page.
-
-“The detective’s betrayal will set the ending in motion.”
-
-“No!” Adrian shouted.
-
-But it was too late.
-
-Blood pooled around Clara’s head.
-
-Another victim.
-
-Another chapter.
-
-9. The Mirror
-
-Adrian spiraled. Guilt. Madness. Rage.
-
-The manuscript continued writing.
-
-He tried burning it—no use.
-
-Shredding it—useless.
-
-He tried writing lies into it. They vanished.
-
-Only truth remained.
-
-He noticed something else: the more he read, the more it knew him. Memories he had buried surfaced in the prose. Moments he had told no one were in the margins. It even described how he’d almost turned in Julian years ago—for planting evidence.
-
-Was that why Julian died?
-
-Was it Whitmore’s ink that drove him mad?
-
-Was it Adrian who failed him?
-
-10. The Ending
-
-Adrian returned to the Whitmore estate one final time. It was storming. He walked through the halls soaked in shadow and thunder.
-
-In the basement, he found the final piece: a mirror covered in red ink.
-
-He wiped it clean.
-
-Behind the glass was not his reflection.
-
-It was Elias Whitmore.
-
-“You’ve come to finish what I started,” Whitmore said.
-
-“You’re dead,” Adrian muttered.
-
-“I am story. I am ink. I live so long as someone reads. Someone believes. And you—you believe.”
-
-Adrian raised his lighter.
-
-Whitmore laughed. “End me, and you end yourself. Your name is on the final page.”
-
-Adrian lit the manuscript.
-
-The fire caught instantly.
-
-Whitmore screamed—pages blackened, mirrors cracked, the house groaned.
-
-Adrian dropped the book into the flames.
-
-Everything faded to ash.
-
-11. Epilogue
-
-Weeks later, they found Adrian’s body in the ruins of the Whitmore estate. Cause of death: unknown.
-
-No manuscript was recovered.
-
-Except for one page—blown half a mile away by the wind. It read:
-
-“The detective burned the truth. But truth lives where ink once dried. And the story… is never over.”
-
-What triggers Adrian Vale to revisit the Whitmore case after a decade?
-C. A letter sealed with red wax
-
-What was special about the Whitmore Manuscript?
-C. It was written in living ink that could rewrite itself
-
-What happened to Professor Emory Whitmore when Adrian found him?
-B. He died suddenly with no apparent cause
-
-What strange phenomenon occurred with the manuscript pages?
-A. They began writing themselves
-
-Who is Clara Marrick in relation to the case?
-B. Julian Marrick’s sister
-
-What was the manuscript seemingly doing to the people around it?
-C. Predicting and causing their deaths
-
-What material was the ink reportedly made from?
-C. Blood, mandrake, and scroll pigments
-
-What truth about Julian Marrick is hinted at in the manuscript?
-C. He may have planted evidence, and Adrian knew
-
-What does Adrian ultimately do to stop the manuscript?
-B. Burns it in the Whitmore estate
-
-What is implied by the final surviving page of the manuscript?
-B. The story is eternal and truth never truly dies
